@@ -47,8 +47,7 @@ export default {
 }
 
 body {
-  background: url('/crumpled.jpg');
-  background-size: cover;
+  background: rgb(255, 251, 243);
 }
 
 </style>

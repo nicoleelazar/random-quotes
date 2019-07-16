@@ -73,6 +73,8 @@ export default {
     color: white;
     text-align: center;
     padding: 40px;
+    border: 3px solid white;
+    border-radius: 3px;
   }
 
   #btn-container {

@@ -39,15 +39,19 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 
 
-#app {
-  font-family: 'Noto Sans', sans-serif;
-}
+  #app {
+    font-family: 'Noto Sans', sans-serif;
+  }
 
-body {
-  background: rgb(255, 251, 243);
-}
+  body {
+    background-image: url('./assets/typewriter.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+
+  }
 
 </style>

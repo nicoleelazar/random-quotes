@@ -61,6 +61,9 @@ export default {
 
   #heading {
     color: rgb(39, 95, 151);
+    background-color: rgba(241, 255, 255, 0.6);
+    max-width: 400px;
+    margin: 30px auto;
     text-align: center;
     letter-spacing: 5px;
   }
@@ -75,6 +78,7 @@ export default {
     padding: 40px;
     border: 3px solid white;
     border-radius: 3px;
+    box-shadow: 2px 2px 10px white;
   }
 
   #btn-container {

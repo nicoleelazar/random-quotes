@@ -48,10 +48,11 @@ export default {
 
   body {
     background-image: url('./assets/typewriter.jpg');
-    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
     background-position: center;
-    background-repeat: repeat-y;
-
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
 </style>
